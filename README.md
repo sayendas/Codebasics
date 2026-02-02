@@ -1,3 +1,6 @@
+ATLIQ HARDWARE ANALYSIS:
+--------------------------------------------------------------------
+
 Problem Statement
 
 AtliQ Hardware is one of the leading computer hardware producers in India and has expanded well in other countries too.
