@@ -1,1 +1,1 @@
-
+The project is about a data pipeline for the CarePlus System, designed to handle and analyze support logs and ticket data. The problem being solved is enabling both real-time/ad-hoc analysis and structured reporting from the same data source. Data is ingested, transformed, and stored in processed layers, where one pipeline supports ad-hoc SQL queries for quick insights, while the other loads data into a data warehouse for Power BI dashboards and business reporting.
