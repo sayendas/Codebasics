@@ -1,3 +1,4 @@
+----------------------------------------------------------------------------------------------------------------------------------
 FinSight Corp. receives daily transaction files from four regions—Asia, EMEA, North
 America, and LATAM. These files are delivered to an AWS S3 bucket as part of their data
 ingestion pipeline.
@@ -24,7 +25,7 @@ Above is a basic file validation task.
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 For the next requirement, the pipeline design is such that 
 
 The system must:
